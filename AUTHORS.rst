@@ -5,3 +5,4 @@ Authors
 * Zdravko Zdravkov
 * Peter Ivanov
 * Lucky Strike
+* John Smith
