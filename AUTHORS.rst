@@ -1,7 +1,6 @@
 Authors
 -------
 
-* Eric (New contributor)
-* Anthony 
+* Eric (New contributor) 
 * Zdravko
 * Nick
