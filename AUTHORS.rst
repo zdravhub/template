@@ -1,7 +1,7 @@
 Authors
 -------
 
-* Eric (New contributor)
-* Zdravko
-* Peter
-* Lucky
+* Eric Clapton
+* Zdravko Zdravkov
+* Peter Ivanov
+* Lucky Strike
